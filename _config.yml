@@ -5,6 +5,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+title: Control Correlation Identifiers
 include:
   - README.md
   - cci/cci-001545.md
